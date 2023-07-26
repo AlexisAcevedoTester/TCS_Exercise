@@ -1,0 +1,9 @@
+Instructions for Automation project
+Automation project was made using Python and Selenium
+-Update chrome to latest version
+-Install python 3.11
+-Install pip
+-Download latest chromedriver and paste it on project location
+-Open a terminal and go to project location
+-Run command "pip install selenium"
+-To run test case run command on project location "python .\main.py"
